@@ -1,2 +1,3 @@
 # hola_mundo
-este un repositorio del módulo dos de Henry
+como crear 8un proyecto con fullstack
+
